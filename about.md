@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[wxcr11@gmail](wxcr11@gmail.com)
+[wxcr11@gmail.com](wxcr11@gmail.com)
